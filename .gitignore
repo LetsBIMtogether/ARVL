@@ -18,6 +18,12 @@
 *.nuget.props
 *.nuget.targets
 
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
 # Ignore Windows thumbnail cache files
 **/Thumbs.db
 
